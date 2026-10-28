@@ -7,7 +7,7 @@ Furthermore, the formalization is cubical-compatible but still requires to suppr
 
 The most notable results are a
 [**call-by-value (big-step) operational semantics**](Base.agda#L56-L76)
-and its relative proof of [**determinism**](Base.agda#L78-l95).
+and its relative proof of [**determinism**](Base.agda#L78-L95).
 
 ## Requirements
 - **Agda**
