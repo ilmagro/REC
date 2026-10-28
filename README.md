@@ -1,6 +1,6 @@
 ## Summary
 The goal of this repository is to formalize **REC** language
-("The Formal Semantics of Programming Languages", Winksel).
+(*"The Formal Semantics of Programming Languages"*, **Winksel**).
 The formalization is general for both `Var` (which equality must be decidable) and `FVar`.
 Furthermore, the formalization is cubical-compatible but still requires to suppress
 `UnsupportedIndexedMatch` warning.
