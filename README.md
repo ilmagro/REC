@@ -15,7 +15,7 @@ and its relative proof of [**determinism**](Base.agda#L78-L95).
 Note: agda-stdlib is not required.
 
 ## TODO
-- subsitution lemmas
+- substitution lemmas
 - small-step operational semantics
 - denotational semantics
 - call-by-name semantic variants
